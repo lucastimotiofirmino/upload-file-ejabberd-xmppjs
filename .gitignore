@@ -1,0 +1,6 @@
+.fileupload/
+.node_modules/
+.fileupload/
+
+DS_Store
+package-lock.json

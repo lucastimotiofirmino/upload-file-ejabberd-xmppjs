@@ -1,0 +1,14 @@
+{
+  "name": "upload-file-ejabberd-xmppjs",
+  "version": "1.0.0",
+  "description": "Sample upload file in xmppjs with ejabberd.",
+  "main": "index.js",
+  "author": "lucastimotio@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@xmpp/client": "^0.11.1",
+    "@xmpp/debug": "^0.11.0",
+    "@xmpp/resolve": "^0.11.0",
+    "child_process": "^1.0.2"
+  }
+}
